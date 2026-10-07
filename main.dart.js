@@ -121640,7 +121640,7 @@ s.CW.sk(0,"")
 s.cx.sk(0,"")}}else A.kt($.S())},
 $S:0}
 A.aT6.prototype={
-$0(){var s=null,r=this.a,q=A.b([new A.m(s,30,s,s),A.hs("assets/images/logo.png",s,s,s,s,s,5,s),new A.m(s,30,s,s),r.amD(),new A.m(s,40,s,s)],t.p),p=r.d.cy
+$0(){var s=null,r=this.a,q=A.b([new A.m(s,30,s,s),A.hs("assets/images/favicon.png",s,s,s,s,s,5,s),new A.m(s,30,s,s),r.amD(),new A.m(s,40,s,s)],t.p),p=r.d.cy
 if(p.gk(0)===1)q.push(r.ams())
 else if(p.gk(0)===2)q.push(r.amx())
 else q.push(r.amA())
@@ -121722,7 +121722,7 @@ j=A.b([B.q,B.q.aH(0.8),B.aK.aH(0.8)],t.t_)
 s=A.eN(m,A.Vi(B.l.aH(0.1),m,m,120),m,m,-50,m,-50,m)
 r=A.eN(-80,A.Vi(B.l.aH(0.1),m,m,180),m,m,m,-80,m,m)
 i=A.b([new A.b3(0,B.F,B.i.aH(0.1),B.aeJ,30)],i)
-i=A.aa(m,A.hs("assets/images/logo.png",m,m,m,120,m,m,120),B.j,m,m,new A.an(B.l,m,m,m,i,m,B.au),m,m,m,m,B.fl,m,m,m)
+i=A.aa(m,A.hs("assets/images/favicon.png",m,m,m,120,m,m,120),B.j,m,m,new A.an(B.l,m,m,m,i,m,B.au),m,m,m,m,B.fl,m,m,m)
 q=A.a2("Welcome to Renth")
 q.d=36
 q.Q=B.r
@@ -121740,7 +121740,7 @@ o.as=B.aD
 o.z=3
 return A.fs(m,B.cW,A.jU(!0,new A.a19(k,h,A.aA(A.b([A.bn(A.aa(m,new A.dJ(B.aG,m,B.aB,B.K,A.b([s,r,A.ci(new A.aN(B.fm,A.av(A.b([i,new A.m(m,30,m,m),p,new A.m(m,15,m,m),new A.m(450,m,o.R(),m)],l),B.m,B.aw,B.k),m),m,m,m)],l),m),B.j,m,m,new A.an(m,m,m,m,m,new A.kE(B.cx,B.ix,B.cb,j,m,m),B.v),m,m,m,m,m,m,m,m),12,m),A.bn(A.ci(A.fd(new A.eB(B.HR,n.amj(a,!0),m),m,B.fm,m,B.a_),m,m,m),10,m)],l),B.m,B.h,B.k,0,m),m),!0,B.an,!0,!0),m,m,!1,m,m)},
 XJ(){var s,r=null,q=A.b([B.q.aH(0.1),B.aK.aH(0.1)],t.t_)
-q=A.b2V(A.aa(r,A.hs("assets/images/logo.png",r,r,r,90,r,r,90),B.j,r,r,new A.an(r,r,r,r,r,new A.kE(B.cx,B.ix,B.cb,q,r,r),B.au),r,r,r,r,B.c3,r,r,r),"logo",!1)
+q=A.b2V(A.aa(r,A.hs("assets/images/favicon.png",r,r,r,90,r,r,90),B.j,r,r,new A.an(r,r,r,r,r,new A.kE(B.cx,B.ix,B.cb,q,r,r),B.au),r,r,r,r,B.c3,r,r,r),"logo",!1)
 s=A.a2("Welcome Back \ud83d\udc4b")
 s.d=26
 s.Q=B.r
